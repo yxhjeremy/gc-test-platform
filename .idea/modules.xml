@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gc-test-platform.iml" filepath="$PROJECT_DIR$/gc-test-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gc-test-platform-eureka-server/gc-test-platform-eureka-server.iml" filepath="$PROJECT_DIR$/gc-test-platform-eureka-server/gc-test-platform-eureka-server.iml" />
     </modules>
   </component>
 </project>

@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gc-test-platform" />
+        <module name="gc-test-platform-eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gc-test-platform" target="1.5" />
+      <module name="gc-test-platform-eureka-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
